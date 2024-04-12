@@ -13,7 +13,7 @@ To run the website, clone the director, `cd` into it with your terminal:
 Within your `.env` file, add the following with your [ChatEngine.io](ChatEngine.io) Project ID (instead of `XXXX`)
 
 ```
-VITE_CHAT_ENGINE_PROJECT_ID=XXXX
+VITE_CHAT_ENGINE_PROJECT_ID=6ebbc5f3-3d0f-4200-80c8-f44498d144ea
 ```
 
 ## 2. Run the code!
